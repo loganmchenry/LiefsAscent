@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: b945e00741d5f2e48afc1b0a9f2feb55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3456419525100554923
+    second: Tactics_EvilWizard_Attack_0
+  - first:
+      213: 3198546638954363720
+    second: Tactics_EvilWizard_Attack_1
+  - first:
+      213: -5960774003793927798
+    second: Tactics_EvilWizard_Attack_2
+  - first:
+      213: -6585336520653552131
+    second: Tactics_EvilWizard_Attack_3
+  - first:
+      213: -4977150164396354283
+    second: Tactics_EvilWizard_Attack_4
+  - first:
+      213: -6145993251923400291
+    second: Tactics_EvilWizard_Attack_5
+  - first:
+      213: -2298449777033569700
+    second: Tactics_EvilWizard_Attack_6
+  - first:
+      213: -8776403796802206723
+    second: Tactics_EvilWizard_Attack_7
+  - first:
+      213: -4520353451992491541
+    second: Tactics_EvilWizard_Attack_8
+  - first:
+      213: -4367411892994307816
+    second: Tactics_EvilWizard_Attack_9
+  - first:
+      213: 7741147660618130082
+    second: Tactics_EvilWizard_Attack_10
+  - first:
+      213: -5323856692954672955
+    second: Tactics_EvilWizard_Attack_11
+  - first:
+      213: 1264687213851631407
+    second: Tactics_EvilWizard_Attack_12
+  - first:
+      213: -1838744605201739273
+    second: Tactics_EvilWizard_Attack_13
+  - first:
+      213: -3156141508391132307
+    second: Tactics_EvilWizard_Attack_14
+  - first:
+      213: 5543918331188970525
+    second: Tactics_EvilWizard_Attack_15
+  - first:
+      213: 3564483180599637030
+    second: Tactics_EvilWizard_Attack_16
+  - first:
+      213: -3803828672665932467
+    second: Tactics_EvilWizard_Attack_17
+  - first:
+      213: 6101596065011643786
+    second: Tactics_EvilWizard_Attack_18
+  - first:
+      213: -4814681986013624366
+    second: Tactics_EvilWizard_Attack_19
+  - first:
+      213: 4429033745021302841
+    second: Tactics_EvilWizard_Attack_20
+  - first:
+      213: -2336007062310471110
+    second: Tactics_EvilWizard_Attack_21
+  - first:
+      213: 7847782230182101139
+    second: Tactics_EvilWizard_Attack_22
+  - first:
+      213: -5577413040602885596
+    second: Tactics_EvilWizard_Attack_23
+  - first:
+      213: 2851270647986616115
+    second: Tactics_EvilWizard_Attack_24
+  - first:
+      213: -6289682543751212909
+    second: Tactics_EvilWizard_Attack_25
+  - first:
+      213: -5826731051714578180
+    second: Tactics_EvilWizard_Attack_26
+  - first:
+      213: 6999797699174806676
+    second: Tactics_EvilWizard_Attack_27
+  - first:
+      213: -3859184059483112046
+    second: Tactics_EvilWizard_Attack_28
+  - first:
+      213: 6318725139307974065
+    second: Tactics_EvilWizard_Attack_29
+  - first:
+      213: -4050829466577107173
+    second: Tactics_EvilWizard_Attack_30
+  - first:
+      213: -8032673930382282843
+    second: Tactics_EvilWizard_Attack_31
+  - first:
+      213: -3383935026333665539
+    second: Tactics_EvilWizard_Attack_32
+  - first:
+      213: 3036057478623324538
+    second: Tactics_EvilWizard_Attack_33
+  - first:
+      213: -7025218520460530547
+    second: Tactics_EvilWizard_Attack_34
+  - first:
+      213: 4832391199011699478
+    second: Tactics_EvilWizard_Attack_35
+  - first:
+      213: -929051795747979494
+    second: Tactics_EvilWizard_Attack_36
+  - first:
+      213: 7087247786392593247
+    second: Tactics_EvilWizard_Attack_37
+  - first:
+      213: -4947300409874348128
+    second: Tactics_EvilWizard_Attack_38
+  - first:
+      213: 5405044280387945853
+    second: Tactics_EvilWizard_Attack_39
+  - first:
+      213: -1498908191951049335
+    second: Tactics_EvilWizard_Attack_40
+  - first:
+      213: 5341497470567002320
+    second: Tactics_EvilWizard_Attack_41
+  - first:
+      213: -4629562482074110914
+    second: Tactics_EvilWizard_Attack_42
+  - first:
+      213: 6379712798687727229
+    second: Tactics_EvilWizard_Attack_43
+  - first:
+      213: -7507201050982436078
+    second: Tactics_EvilWizard_Attack_44
+  - first:
+      213: -5725722565809484616
+    second: Tactics_EvilWizard_Attack_45
+  - first:
+      213: -4033281852595100442
+    second: Tactics_EvilWizard_Attack_46
+  - first:
+      213: -2447361963160616204
+    second: Tactics_EvilWizard_Attack_47
+  - first:
+      213: -3412746426425300577
+    second: Tactics_EvilWizard_Attack_48
+  - first:
+      213: 225071503832274888
+    second: Tactics_EvilWizard_Attack_49
+  - first:
+      213: -3393765465449426700
+    second: Tactics_EvilWizard_Attack_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55538ab31c45800d0800000000000000
+      internalID: -3456419525100554923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf464b835836c20800000000000000
+      internalID: 3198546638954363720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ea7500a3174da0800000000000000
+      internalID: -5960774003793927798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c908335f2c94a0800000000000000
+      internalID: -6585336520653552131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d069ab4c9deab0800000000000000
+      internalID: -4977150164396354283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99682343bb05baa0800000000000000
+      internalID: -6145993251923400291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a96d10b144a10e0800000000000000
+      internalID: -2298449777033569700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_EvilWizard_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 83
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df307360f33f33680800000000000000
+      internalID: -8776403796802206723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 04ce3429508bcae4aa041ba7cf5a6ddb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2543541993168532422
+    second: Tactics-EvilWizard_Idle_0
+  - first:
+      213: 6699506790574040743
+    second: Tactics-EvilWizard_Idle_1
+  - first:
+      213: -279550113291733446
+    second: Tactics-EvilWizard_Idle_3
+  - first:
+      213: -7483155551317704190
+    second: Tactics-EvilWizard_Idle_3
+  - first:
+      213: 1719699862074836801
+    second: Tactics-EvilWizard_Idle_4
+  - first:
+      213: 1100553762757485374
+    second: Tactics-EvilWizard_Idle_0
+  - first:
+      213: 3098570192906599926
+    second: Tactics-EvilWizard_Idle_1
+  - first:
+      213: 5349340152797755431
+    second: Tactics-EvilWizard_Idle_2
+  - first:
+      213: 4851623711832488666
+    second: Tactics-EvilWizard_Idle_4
+  - first:
+      213: 3372030782820408965
+    second: Tactics-EvilWizard_Idle_5
+  - first:
+      213: 5994329688085090023
+    second: Tactics-EvilWizard_Idle_10
+  - first:
+      213: 5674440760652776750
+    second: Tactics-EvilWizard_Idle_6
+  - first:
+      213: -1848018541061890780
+    second: Tactics-EvilWizard_Idle_7
+  - first:
+      213: -304655342437664911
+    second: Tactics-EvilWizard_Idle_13
+  - first:
+      213: 2942013346847067228
+    second: Tactics-EvilWizard_Idle_14
+  - first:
+      213: -3032418286890803564
+    second: Tactics-EvilWizard_Idle_15
+  - first:
+      213: 6855045808757072814
+    second: Tactics-EvilWizard_Idle_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36735037a6de1cf0800000000000000
+      internalID: -279550113291733446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e332165f0d3f54f00800000000000000
+      internalID: 1100553762757485374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdbfcb6c25500b20800000000000000
+      internalID: 3098570192906599926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287e36e68cac3a40800000000000000
+      internalID: 5349340152797755431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada33a79f0e645340800000000000000
+      internalID: 4851623711832488666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e51b5912cdbce20800000000000000
+      internalID: 3372030782820408965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25c4bdaec9afbe40800000000000000
+      internalID: 5674440760652776750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics-EvilWizard_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 83
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9ba99de48a56e0800000000000000
+      internalID: -1848018541061890780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

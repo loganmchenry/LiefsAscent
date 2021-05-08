@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6342417076825994401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 978306260457366982}
+  - component: {fileID: 3329677888004419006}
+  m_Layer: 0
+  m_Name: GameStats
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &978306260457366982
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6342417076825994401}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 417.7313, y: 355.4389, z: -172.125}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3329677888004419006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6342417076825994401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbaf40536cf1f4b468a0d5706a85e2ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentHealth: 10
+  maxHealth: 10
+  speed: 10
+  attackPower: 50
+  characterName: Lief
+  maxMove: 5
+  maxAP: 2
+  currentMove: 3
+  currentAP: 0
+  xPos: 0
+  yPos: 0
+  zPos: 0
+  defense: 0
+  levelsCompleted: 0
+  isGoblin: 0
+  isLoki: 0
+  inNifl: 0
+  inCave: 0
+  inValh: 0
+  items: []
+  demoXPos: 0
+  demoYPos: 0
+  demoZPos: 0
+  PartyList: {fileID: 0}
+  _Lief:
+    _core: {fileID: 11400000, guid: 864736f7e8153ed45bfca649bfc75f7b, type: 2}
+    scaleFactor: 1
+  _Thief:
+    _core: {fileID: 11400000, guid: 02a23c44aad40874cb51092c9359c048, type: 2}
+    scaleFactor: 1
+  _Archer:
+    _core: {fileID: 11400000, guid: 3bc319ff5a3f75e40b11adc079f1cff2, type: 2}
+    scaleFactor: 1
+  _Healer:
+    _core: {fileID: 11400000, guid: cd349192f9069d240a4bdf568306d5a6, type: 2}
+    scaleFactor: 1
+  _Mage:
+    _core: {fileID: 11400000, guid: ef7dbb1ba8790c141b6359d140e08f2d, type: 2}
+    scaleFactor: 1
+  _Warrior:
+    _core: {fileID: 11400000, guid: afd627e33b15fbb4aa15b6c66240cd4b, type: 2}
+    scaleFactor: 1
+  _Loki:
+    _core: {fileID: 11400000, guid: 20ba2998feb17384d9554a9c8a06d69f, type: 2}
+    scaleFactor: 1
+  activeMembers: 

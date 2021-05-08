@@ -1,0 +1,1067 @@
+fileFormatVersion: 2
+guid: a42dd4ac29752aa40a1fe7c889e47db1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 392750492838675142
+    second: Tactics_Draugr_Idle_0
+  - first:
+      213: -5206625807318966626
+    second: Tactics_Draugr_Idle_1
+  - first:
+      213: -991294243602918891
+    second: Tactics_Draugr_Idle_2
+  - first:
+      213: 3551735835483136232
+    second: Tactics_Draugr_Idle_3
+  - first:
+      213: 5428642882378234413
+    second: Tactics_Draugr_Idle_4
+  - first:
+      213: -7320128467408148150
+    second: Tactics_Draugr_Idle_5
+  - first:
+      213: 380411455337326040
+    second: Tactics_Draugr_Idle_6
+  - first:
+      213: -3527822650652725611
+    second: Tactics_Draugr_Idle_7
+  - first:
+      213: -6707164646757687043
+    second: Tactics_Draugr_Idle_8
+  - first:
+      213: -3607767048294437876
+    second: Tactics_Draugr_Idle_9
+  - first:
+      213: -2646748607156585222
+    second: Tactics_Draugr_Idle_10
+  - first:
+      213: -4252859396704994966
+    second: Tactics_Draugr_Idle_11
+  - first:
+      213: -2569826693802816209
+    second: Tactics_Draugr_Idle_12
+  - first:
+      213: 1371673268045637263
+    second: Tactics_Draugr_Idle_13
+  - first:
+      213: -3177759034277057365
+    second: Tactics_Draugr_Idle_14
+  - first:
+      213: 475851258042705072
+    second: Tactics_Draugr_Idle_15
+  - first:
+      213: -103263042788979166
+    second: Tactics_Draugr_Idle_16
+  - first:
+      213: -2750329336974177748
+    second: Tactics_Draugr_Idle_17
+  - first:
+      213: -8749580040899065696
+    second: Tactics_Draugr_Idle_18
+  - first:
+      213: 570072995828073843
+    second: Tactics_Draugr_Idle_19
+  - first:
+      213: -8122317707835336999
+    second: Tactics_Draugr_Idle_20
+  - first:
+      213: -5495730069331423254
+    second: Tactics_Draugr_Idle_21
+  - first:
+      213: -1445721119114092284
+    second: Tactics_Draugr_Idle_22
+  - first:
+      213: -2273035978381429898
+    second: Tactics_Draugr_Idle_23
+  - first:
+      213: 4102693173478657393
+    second: Tactics_Draugr_Idle_24
+  - first:
+      213: -1888171611896193028
+    second: Tactics_Draugr_Idle_25
+  - first:
+      213: 4461226580527178642
+    second: Tactics_Draugr_Idle_26
+  - first:
+      213: 7283548636457874098
+    second: Tactics_Draugr_Idle_27
+  - first:
+      213: 124332426246211282
+    second: Tactics_Draugr_Idle_28
+  - first:
+      213: -4888159484588639823
+    second: Tactics_Draugr_Idle_29
+  - first:
+      213: 308582554412695209
+    second: Tactics_Draugr_Idle_30
+  - first:
+      213: -5235390167912254730
+    second: Tactics_Draugr_Idle_31
+  - first:
+      213: -10113746407894989
+    second: Tactics_Draugr_Idle_32
+  - first:
+      213: -3118307203976949202
+    second: Tactics_Draugr_Idle_33
+  - first:
+      213: -4425920975728489797
+    second: Tactics_Draugr_Idle_34
+  - first:
+      213: -9197750603311985147
+    second: Tactics_Draugr_Idle_35
+  - first:
+      213: -8944612646736498676
+    second: Tactics_Draugr_Idle_36
+  - first:
+      213: -7090402040756586150
+    second: Tactics_Draugr_Idle_37
+  - first:
+      213: 504600976946322891
+    second: Tactics_Draugr_Idle_38
+  - first:
+      213: -8723020274588680163
+    second: Tactics_Draugr_Idle_39
+  - first:
+      213: 1630013206431615733
+    second: Tactics_Draugr_Idle_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2420b0e74537500800000000000000
+      internalID: 392750492838675142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1f540a695eb7b0800000000000000
+      internalID: -5206625807318966626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512982633273e32f0800000000000000
+      internalID: -991294243602918891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06ff9acec4a4130800000000000000
+      internalID: 3551735835483136232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7b9870f9665b40800000000000000
+      internalID: 5428642882378234413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49a9ed41fda96a90800000000000000
+      internalID: -7320128467408148150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5eedff33e774500800000000000000
+      internalID: 380411455337326040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e644d8df7aa0fc0800000000000000
+      internalID: -3527822650652725611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df023f33a4d5be2a0800000000000000
+      internalID: -6707164646757687043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cec0efbf2aeedc0800000000000000
+      internalID: -3607767048294437876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcfba43a2cd44bd0800000000000000
+      internalID: -2646748607156585222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6977bb49eecaf4c0800000000000000
+      internalID: -4252859396704994966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d019dcc34265cd0800000000000000
+      internalID: -2569826693802816209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8662c1e199290310800000000000000
+      internalID: 1371673268045637263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca02caef456e3d0800000000000000
+      internalID: -3177759034277057365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ee81b2309a9600800000000000000
+      internalID: 475851258042705072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e03284fc2219ef0800000000000000
+      internalID: -103263042788979166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a81563a0ed4d9d0800000000000000
+      internalID: -2750329336974177748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a80d506f4f339680800000000000000
+      internalID: -8749580040899065696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375006c8e5e49e700800000000000000
+      internalID: 570072995828073843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61c9f141bb74f80800000000000000
+      internalID: -8122317707835336999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef411c9e9e3bb3b0800000000000000
+      internalID: -5495730069331423254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401acea4d44cfebe0800000000000000
+      internalID: -1445721119114092284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67374ea12dd8470e0800000000000000
+      internalID: -2273035978381429898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8d9b44b1bfe830800000000000000
+      internalID: 4102693173478657393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff53f54ceddbc5e0800000000000000
+      internalID: -1888171611896193028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936ada30f579ed30800000000000000
+      internalID: 4461226580527178642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b23a5c15ec541560800000000000000
+      internalID: 7283548636457874098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6c774dea7b9b100800000000000000
+      internalID: 124332426246211282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b933abe8d4c92cb0800000000000000
+      internalID: -4888159484588639823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb6a3c23e484400800000000000000
+      internalID: 308582554412695209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2740d61682857b0800000000000000
+      internalID: -5235390167912254730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330520ae9911cdff0800000000000000
+      internalID: -10113746407894989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2299669e1c89b4d0800000000000000
+      internalID: -3118307203976949202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac0c57258f392c0800000000000000
+      internalID: -4425920975728489797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e44fcde860b5080800000000000000
+      internalID: -9197750603311985147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 1
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59bff519e4d99d90800000000000000
+      internalID: -7090402040756586150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd53304ae3b00700800000000000000
+      internalID: 504600976946322891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108c9cd64b91f680800000000000000
+      internalID: -8723020274588680163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4d840068fe9610800000000000000
+      internalID: 1630013206431615733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 110b19d152f515349bb05e4a87ed3578
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

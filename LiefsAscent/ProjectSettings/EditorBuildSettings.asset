@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Platformer/Scenes/StartMenu.unity
+    guid: 07731d6fe3a036b47a8d4d318695c708
+  - enabled: 1
+    path: Assets/Platformer/Scenes/DEMO.unity
+    guid: 443b48e803f5d5b4b95fe71d4ff6c314
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/00_Base.unity
+    guid: b0ebfcfa11e64b548a3b2484f39bfa64
+  - enabled: 1
+    path: Assets/Tactics/Scenes/tacticalDemo.unity
+    guid: cd433120be9a0014da014d046bfd82a3
+  - enabled: 0
+    path: Assets/Platformer/Scenes/Test Scenes/Options Test.unity
+    guid: 4918122ac528e704198dae0b5a033deb
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Options Menu.unity
+    guid: 1df9988ea551a5a409fd9c29acf3d9b3
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/01_Niflheim.unity
+    guid: 1dae09e48e7b3e64e9a6c117c264a170
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/02_ProceduralGenTest.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/03_Valhalla.unity
+    guid: 3b585e0555d8e9f468c2b94d2df7bc84
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/99_Cutscene.unity
+    guid: 2aa29df7c8a39d74096cbce18d82c76f
+  m_configObjects: {}

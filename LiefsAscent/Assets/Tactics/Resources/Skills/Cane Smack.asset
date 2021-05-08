@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14915af46915c34e80fa20568fff747, type: 3}
+  m_Name: Cane Smack
+  m_EditorClassIdentifier: 
+  sName: Cane Smack
+  description: Deal 5 to an enemy and reduce movement by 1.
+  type1: 1
+  targetStat: 1
+  useSetPower: 1
+  powerStat1: -5
+  targetStat2: 5
+  useSetPower2: 0
+  powerStat2: -1
+  range: 1
+  cost: 2
+  isSpecial: 1
+  requirement: 2
+  myTarget: 4

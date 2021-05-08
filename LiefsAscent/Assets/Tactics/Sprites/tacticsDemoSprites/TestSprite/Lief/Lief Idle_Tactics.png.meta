@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: b6a00cf3b8e1d8d4ca23549dc23f04db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2863295477518812174
+    second: Lief Idle_0
+  - first:
+      213: -2617530516249618883
+    second: Lief Idle_1
+  - first:
+      213: 8147571216599070716
+    second: Lief Idle_2
+  - first:
+      213: -2774774047992649548
+    second: Lief Idle_3
+  - first:
+      213: -6204709894281990737
+    second: Lief Idle_4
+  - first:
+      213: -1231878242638846709
+    second: Lief Idle_5
+  - first:
+      213: -8412380313534593531
+    second: Lief Idle_6
+  - first:
+      213: -8060468926633298396
+    second: Lief Idle_7
+  - first:
+      213: -258540781103782600
+    second: Lief Idle_8
+  - first:
+      213: 3650337558157850653
+    second: Lief Idle_9
+  - first:
+      213: 5301045466318438754
+    second: Lief Idle_10
+  - first:
+      213: -3254459567240291243
+    second: Lief Idle_11
+  - first:
+      213: -4202339927458518187
+    second: Lief Idle_12
+  - first:
+      213: -683599804027547051
+    second: Lief Idle_13
+  - first:
+      213: -2274558492720622790
+    second: Lief Idle_14
+  - first:
+      213: -3801032660722867504
+    second: Lief Idle_15
+  - first:
+      213: 3873187816512889074
+    second: Lief Idle_16
+  - first:
+      213: -8455296115622564579
+    second: Lief Idle_17
+  - first:
+      213: -4146284195476843744
+    second: Lief Idle_18
+  - first:
+      213: -7691070544891462389
+    second: Lief Idle_19
+  - first:
+      213: -455747185029397958
+    second: Lief Idle_20
+  - first:
+      213: 9168722039660836321
+    second: Lief Idle_21
+  - first:
+      213: -2275220590618382092
+    second: Lief Idle_22
+  - first:
+      213: -5596393050215122038
+    second: Lief Idle_Tactics_0
+  - first:
+      213: -4795215497356739739
+    second: Lief Idle_Tactics_1
+  - first:
+      213: -2298694297594710696
+    second: Lief Idle_Tactics_2
+  - first:
+      213: 2878112360903134034
+    second: Lief Idle_Tactics_3
+  - first:
+      213: -7981756913157225878
+    second: Lief Idle_Tactics_4
+  - first:
+      213: 4507220724087785947
+    second: Lief Idle_Tactics_5
+  - first:
+      213: -5902925647937637954
+    second: Lief Idle_Tactics_6
+  - first:
+      213: -8841397919543816833
+    second: Lief Idle_Tactics_7
+  - first:
+      213: -1041665418866420429
+    second: Lief Idle_Tactics_8
+  - first:
+      213: 8487425055170529941
+    second: Lief Idle_Tactics_9
+  - first:
+      213: 3875489221063140304
+    second: Lief Idle_Tactics_10
+  - first:
+      213: 2019578350737936625
+    second: Lief Idle_Tactics_11
+  - first:
+      213: 1831447110620561526
+    second: Lief Idle_Tactics_12
+  - first:
+      213: 7880522655563074898
+    second: Lief Idle_Tactics_13
+  - first:
+      213: -8507215456101799480
+    second: Lief Idle_Tactics_14
+  - first:
+      213: 5269939608668261809
+    second: Lief Idle_Tactics_15
+  - first:
+      213: 8789227995227554366
+    second: Lief Idle_Tactics_16
+  - first:
+      213: -1869522877792984245
+    second: Lief Idle_Tactics_17
+  - first:
+      213: 4826922258027224666
+    second: Lief Idle_Tactics_18
+  - first:
+      213: 7714961037008622511
+    second: Lief Idle_Tactics_19
+  - first:
+      213: -5629331221309457189
+    second: Lief Idle_Tactics_20
+  - first:
+      213: 4104132560544775528
+    second: Lief Idle_Tactics_21
+  - first:
+      213: 6075112654457207170
+    second: Lief Idle_Tactics_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b767afb2e9552b0800000000000000
+      internalID: -5596393050215122038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b7a9a49e8f37db0800000000000000
+      internalID: -4795215497356739739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855b6a027b56910e0800000000000000
+      internalID: -2298694297594710696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bca4f71fb11f720800000000000000
+      internalID: 2878112360903134034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62cebb606a1b3190800000000000000
+      internalID: -7981756913157225878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd908874e5ddc8e30800000000000000
+      internalID: 4507220724087785947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb17223f568941ea0800000000000000
+      internalID: -5902925647937637954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d86b79f6b0d4580800000000000000
+      internalID: -8841397919543816833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33598ad02d24b81f0800000000000000
+      internalID: -1041665418866420429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a803f8e1469c570800000000000000
+      internalID: 8487425055170529941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e250d9e088c530800000000000000
+      internalID: 3875489221063140304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ddcf4fcbf60c10800000000000000
+      internalID: 2019578350737936625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6704475917b9a6910800000000000000
+      internalID: 1831447110620561526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d41493a9d3d5d60800000000000000
+      internalID: 7880522655563074898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e657ad9c40f980800000000000000
+      internalID: -8507215456101799480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdce6a1726922940800000000000000
+      internalID: 5269939608668261809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3205795b4c99f970800000000000000
+      internalID: 8789227995227554366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43eea909de1e06e0800000000000000
+      internalID: -1869522877792984245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9324383cacf240800000000000000
+      internalID: 4826922258027224666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d0e2003c011b60800000000000000
+      internalID: 7714961037008622511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc75d6641990e1b0800000000000000
+      internalID: -5629331221309457189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db266b1dec4f830800000000000000
+      internalID: 4104132560544775528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_Tactics_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 10
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f66b95c22f4450800000000000000
+      internalID: 6075112654457207170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7261d89ae08219a41babc189173c0a3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

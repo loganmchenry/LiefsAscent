@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3529092523773910361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3529092523773910363}
+  - component: {fileID: 3529092523773910360}
+  - component: {fileID: 3529092523773910362}
+  m_Layer: 0
+  m_Name: PartyMembersUnlockedController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3529092523773910363
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529092523773910361}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5329196, y: 0.5329196, z: 0.5329196}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3529092523773910360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529092523773910361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1001d1962cc51a47b3e6f641ab00e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3529092523773910362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529092523773910361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e464c4ccfe5462d49ac589395b3cbfa4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  warriorCard: {fileID: 0}
+  thiefCard: {fileID: 0}
+  archerCard: {fileID: 0}
+  mageCard: {fileID: 0}
+  healerCard: {fileID: 0}
+  partyList: {fileID: 0}
+  partyMemberUI: {fileID: 0}
+  liefHp: {fileID: 0}
+  warriorHp: {fileID: 0}
+  thiefHp: {fileID: 0}
+  archerHp: {fileID: 0}
+  mageHp: {fileID: 0}
+  healerHp: {fileID: 0}
+  Lief:
+    _core: {fileID: 0}
+    scaleFactor: 0
+  Warrior:
+    _core: {fileID: 0}
+    scaleFactor: 0
+  Thief:
+    _core: {fileID: 0}
+    scaleFactor: 0
+  Archer:
+    _core: {fileID: 0}
+    scaleFactor: 0
+  Mage:
+    _core: {fileID: 0}
+    scaleFactor: 0
+  Healer:
+    _core: {fileID: 0}
+    scaleFactor: 0

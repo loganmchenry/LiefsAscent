@@ -1,0 +1,1181 @@
+fileFormatVersion: 2
+guid: df1f875791ddb8349b7d57722b5194be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3019536060254245042
+    second: Cave - Platforms_0
+  - first:
+      213: 7610613980440067738
+    second: Cave - Platforms_1
+  - first:
+      213: -8343026242572889257
+    second: Cave - Platforms_2
+  - first:
+      213: 4360456650312705827
+    second: Cave - Platforms_3
+  - first:
+      213: 714562820920908885
+    second: Cave - Platforms_4
+  - first:
+      213: -818533289389623065
+    second: Cave - Platforms_5
+  - first:
+      213: -4118258751314367267
+    second: Cave - Platforms_6
+  - first:
+      213: -3931425786906198197
+    second: Cave - Platforms_7
+  - first:
+      213: 896267137400874761
+    second: Cave - Platforms_8
+  - first:
+      213: -3741481855412457092
+    second: Cave - Platforms_9
+  - first:
+      213: 2645977652639482237
+    second: Cave - Platforms_10
+  - first:
+      213: -6208911543600226607
+    second: Cave - Platforms_11
+  - first:
+      213: 3327791399247121822
+    second: Cave - Platforms_12
+  - first:
+      213: 2968119027672716803
+    second: Cave - Platforms_13
+  - first:
+      213: -7946982600776847416
+    second: Cave - Platforms_14
+  - first:
+      213: 6311040133640844686
+    second: Cave - Platforms_15
+  - first:
+      213: -2887718111431709105
+    second: Cave - Platforms_16
+  - first:
+      213: 4571785467760686519
+    second: Cave - Platforms_17
+  - first:
+      213: 1943194588825253029
+    second: Cave - Platforms_18
+  - first:
+      213: -4376203643184455003
+    second: Cave - Platforms_19
+  - first:
+      213: 1025796393654828382
+    second: Cave - Platforms_20
+  - first:
+      213: -1252253976055662699
+    second: Cave - Platforms_21
+  - first:
+      213: -3626938876135912128
+    second: Cave - Platforms_22
+  - first:
+      213: -4016771709905906147
+    second: Cave - Platforms_23
+  - first:
+      213: -9207485670388681477
+    second: Cave - Platforms_24
+  - first:
+      213: 2205322093350334525
+    second: Cave - Platforms_25
+  - first:
+      213: -8037277319642359503
+    second: Cave - Platforms_26
+  - first:
+      213: 5601733948295230360
+    second: Cave - Platforms_27
+  - first:
+      213: 3564008777022962323
+    second: Cave - Platforms_28
+  - first:
+      213: -2409913551757495660
+    second: Cave - Platforms_29
+  - first:
+      213: -7904962055585298510
+    second: Cave - Platforms_30
+  - first:
+      213: -8194365345063762278
+    second: Cave - Platforms_31
+  - first:
+      213: 5329817841279929640
+    second: Cave - Platforms_32
+  - first:
+      213: 4918175276249163297
+    second: Cave - Platforms_33
+  - first:
+      213: -772573504862924772
+    second: Cave - Platforms_34
+  - first:
+      213: 7164166416700081104
+    second: Cave - Platforms_35
+  - first:
+      213: -7424755286352067192
+    second: Cave - Platforms_36
+  - first:
+      213: -5579877465710919231
+    second: Cave - Platforms_37
+  - first:
+      213: -5876598034161713998
+    second: Cave - Platforms_38
+  - first:
+      213: -5944663099676998259
+    second: Cave - Platforms_39
+  - first:
+      213: 1989158124468738923
+    second: Cave - Platforms_40
+  - first:
+      213: -2216026168760848618
+    second: Cave - Platforms_41
+  - first:
+      213: -2836787708493592584
+    second: Cave - Platforms_42
+  - first:
+      213: 1606019623574455234
+    second: Cave - Platforms_43
+  - first:
+      213: -3686613786009094173
+    second: Cave - Platforms_44
+  - first:
+      213: -870337582987514868
+    second: Cave - Platforms_45
+  - first:
+      213: -29198007411973087
+    second: Cave - Platforms_46
+  - first:
+      213: 309952358925971515
+    second: Cave - Platforms_47
+  - first:
+      213: 4081132543880734018
+    second: Cave - Platforms_48
+  - first:
+      213: -4233079825223208850
+    second: Cave - Platforms_49
+  - first:
+      213: 1565898001783314973
+    second: Cave - Platforms_50
+  - first:
+      213: 412118399164300235
+    second: Cave - Platforms_51
+  - first:
+      213: 4114116025413448267
+    second: Cave - Platforms_52
+  - first:
+      213: 5398835264496155990
+    second: Cave - Platforms_53
+  - first:
+      213: -5361237529129180188
+    second: Cave - Platforms_54
+  - first:
+      213: 7590453559783741294
+    second: Cave - Platforms_55
+  - first:
+      213: -1787332328167767404
+    second: Cave - Platforms_56
+  - first:
+      213: 3238535034227432054
+    second: Cave - Platforms_57
+  - first:
+      213: 4885512269789220959
+    second: Cave - Platforms_58
+  - first:
+      213: -7601967162186816053
+    second: Cave - Platforms_59
+  - first:
+      213: 4445755206968126200
+    second: Cave - Platforms_60
+  - first:
+      213: -3536979737205827121
+    second: Cave - Platforms_61
+  - first:
+      213: -4880262900843097142
+    second: Cave - Platforms_62
+  - first:
+      213: 2533255547274102505
+    second: Cave - Platforms_63
+  - first:
+      213: -6648932456306676694
+    second: Cave - Platforms_64
+  - first:
+      213: 8123200948015862810
+    second: Cave - Platforms_65
+  - first:
+      213: -4091154867698644575
+    second: Cave - Platforms_66
+  - first:
+      213: 2829294765779181062
+    second: Cave - Platforms_67
+  - first:
+      213: 6747024764570493193
+    second: Cave - Platforms_68
+  - first:
+      213: -9006286417029819114
+    second: Cave - Platforms_69
+  - first:
+      213: -7523958622965122792
+    second: Cave - Platforms_70
+  - first:
+      213: -6001476376380932161
+    second: Cave - Platforms_71
+  - first:
+      213: -5977234079625454122
+    second: Cave - Platforms_72
+  - first:
+      213: -828639299074927464
+    second: Cave - Platforms_73
+  - first:
+      213: -5565567534258500708
+    second: Cave - Platforms_74
+  - first:
+      213: -3249303056893036357
+    second: Cave - Platforms_75
+  - first:
+      213: 4591437592596937088
+    second: Cave - Platforms_76
+  - first:
+      213: -7333547312905604314
+    second: Cave - Platforms_77
+  - first:
+      213: 1239772971680952044
+    second: Cave - Platforms_78
+  - first:
+      213: 1706898330492071504
+    second: Cave - Platforms_79
+  - first:
+      213: -2193312546138674782
+    second: Cave - Platforms_80
+  - first:
+      213: 5616438925771575714
+    second: Cave - Platforms_81
+  - first:
+      213: -135431279587488896
+    second: Cave - Platforms_82
+  - first:
+      213: 3886044452398425300
+    second: Cave - Platforms_83
+  - first:
+      213: -4520360814100295231
+    second: Cave - Platforms_84
+  - first:
+      213: -6850914830300438472
+    second: Cave - Platforms_85
+  - first:
+      213: -3670553156551695681
+    second: Cave - Platforms_86
+  - first:
+      213: -3644205902191135792
+    second: Cave - Platforms_87
+  - first:
+      213: -2221136739129620746
+    second: Cave - Platforms_88
+  - first:
+      213: 890397928272937820
+    second: Cave - Platforms_89
+  - first:
+      213: -1144197723385982287
+    second: Cave - Platforms_90
+  - first:
+      213: 4199657223692728015
+    second: Cave - Platforms_91
+  - first:
+      213: -2954102744861885782
+    second: Cave - Platforms_92
+  - first:
+      213: 3374035312033671708
+    second: Cave - Platforms_93
+  - first:
+      213: 7471191271663789924
+    second: Cave - Platforms_94
+  - first:
+      213: -5822306077280126071
+    second: Cave - Platforms_95
+  - first:
+      213: 8465442184146028817
+    second: Cave - Platforms_96
+  - first:
+      213: 7572002941815135067
+    second: Cave - Platforms_97
+  - first:
+      213: 3970809202784439922
+    second: Cave - Platforms_98
+  - first:
+      213: 4031966796135541517
+    second: Cave - Platforms_99
+  - first:
+      213: 8110432519337152939
+    second: Cave - Platforms_100
+  - first:
+      213: 1472968256437235048
+    second: Cave - Platforms_101
+  - first:
+      213: -1085726526126052486
+    second: Cave - Platforms_102
+  - first:
+      213: 4569059360110507606
+    second: Cave - Platforms_103
+  - first:
+      213: 2685569757458981303
+    second: Cave - Platforms_104
+  - first:
+      213: 2062085348584213995
+    second: Cave - Platforms_105
+  - first:
+      213: 8919486467201549991
+    second: Cave - Platforms_106
+  - first:
+      213: 5766911951854355529
+    second: Cave - Platforms_107
+  - first:
+      213: -8497202858286531656
+    second: Cave - Platforms_108
+  - first:
+      213: 208143813654305093
+    second: Cave - Platforms_109
+  - first:
+      213: 7286604985762810587
+    second: Cave - Platforms_110
+  - first:
+      213: 3119398107414317966
+    second: Cave - Platforms_111
+  - first:
+      213: -7867007785313728770
+    second: Cave - Platforms_112
+  - first:
+      213: 3846763211681172932
+    second: Cave - Platforms_113
+  - first:
+      213: -3958364946574314516
+    second: Cave - Platforms_114
+  - first:
+      213: 4530607813934231150
+    second: Cave - Platforms_115
+  - first:
+      213: -5834363011851705724
+    second: Cave - Platforms_116
+  - first:
+      213: 6906832143765908447
+    second: Cave - Platforms_117
+  - first:
+      213: -5897754029390621961
+    second: Cave - Platforms_118
+  - first:
+      213: -595618255752744393
+    second: Cave - Platforms_119
+  - first:
+      213: -1442949959464548221
+    second: Cave - Platforms_120
+  - first:
+      213: -1575039849420696931
+    second: Cave - Platforms_121
+  - first:
+      213: 4220679126371368495
+    second: Cave - Platforms_122
+  - first:
+      213: 429123241464842511
+    second: Cave - Platforms_123
+  - first:
+      213: -8901693469740515736
+    second: Cave - Platforms_124
+  - first:
+      213: 7523404993156662034
+    second: Cave - Platforms_125
+  - first:
+      213: 5628003317157021246
+    second: Cave - Platforms_126
+  - first:
+      213: 7620484832138945498
+    second: Cave - Platforms_127
+  - first:
+      213: 5810263115235740025
+    second: Cave - Platforms_128
+  - first:
+      213: -8879435044971294295
+    second: Cave - Platforms_129
+  - first:
+      213: -2110625952158414700
+    second: Cave - Platforms_130
+  - first:
+      213: 7365564403670778597
+    second: Cave - Platforms_131
+  - first:
+      213: -5629164847727996307
+    second: Cave - Platforms_132
+  - first:
+      213: 5235538102456197928
+    second: Cave - Platforms_133
+  - first:
+      213: 8924509090171544355
+    second: Cave - Platforms_134
+  - first:
+      213: 1628944642146574315
+    second: Cave - Platforms_135
+  - first:
+      213: -8166837442606991934
+    second: Cave - Platforms_136
+  - first:
+      213: 2523086602416116953
+    second: Cave - Platforms_137
+  - first:
+      213: 4996608471461831142
+    second: Cave - Platforms_138
+  - first:
+      213: -6701785643202657237
+    second: Cave - Platforms_139
+  - first:
+      213: -1435829717262445620
+    second: Cave - Platforms_140
+  - first:
+      213: -1660293575863532579
+    second: Cave - Platforms_141
+  - first:
+      213: -8249439267650378677
+    second: Cave - Platforms_142
+  - first:
+      213: -3068372483397009964
+    second: Cave - Platforms_143
+  - first:
+      213: -5661025792036847598
+    second: Cave - Platforms_144
+  - first:
+      213: 1214471693066915231
+    second: Cave - Platforms_145
+  - first:
+      213: -6965758859161297498
+    second: Cave - Platforms_146
+  - first:
+      213: 3420960881620819211
+    second: Cave - Platforms_147
+  - first:
+      213: -8545897552989737729
+    second: Cave - Platforms_148
+  - first:
+      213: -3403488011980594716
+    second: Cave - Platforms_149
+  - first:
+      213: -6079752777183970638
+    second: Cave - Platforms_150
+  - first:
+      213: -5163643873161523534
+    second: Cave - Platforms_151
+  - first:
+      213: 8119504747977073718
+    second: Cave - Platforms_152
+  - first:
+      213: 3085633774491776752
+    second: Cave - Platforms_153
+  - first:
+      213: 8712362585628990704
+    second: Cave - Platforms_154
+  - first:
+      213: -1249982653321570713
+    second: Cave - Platforms_155
+  - first:
+      213: 8908638134357874462
+    second: Cave - Platforms_156
+  - first:
+      213: 2737430596032343463
+    second: Cave - Platforms_157
+  - first:
+      213: 5825411354115243493
+    second: Cave - Platforms_158
+  - first:
+      213: -6622022102225766956
+    second: Cave - Platforms_159
+  - first:
+      213: -6051339710269836627
+    second: Cave - Platforms_160
+  - first:
+      213: 8172156786644253762
+    second: Cave - Platforms_161
+  - first:
+      213: -5032621028204261350
+    second: Cave - Platforms_162
+  - first:
+      213: -3468288161352632188
+    second: Cave - Platforms_163
+  - first:
+      213: -4637595213437099144
+    second: Cave - Platforms_164
+  - first:
+      213: 104031572493637013
+    second: Cave - Platforms_165
+  - first:
+      213: -6983567511444302289
+    second: Cave - Platforms_166
+  - first:
+      213: 467348937516801416
+    second: Cave - Platforms_167
+  - first:
+      213: 8961305481086498425
+    second: Cave - Platforms_168
+  - first:
+      213: -7469051610917083836
+    second: Cave - Platforms_169
+  - first:
+      213: -8492478318119261975
+    second: Cave - Platforms_170
+  - first:
+      213: 7119595045441118723
+    second: Cave - Platforms_171
+  - first:
+      213: -8650127625932753385
+    second: Cave - Platforms_172
+  - first:
+      213: -1105646261939690639
+    second: Cave - Platforms_173
+  - first:
+      213: 3546481542837969810
+    second: Cave - Platforms_174
+  - first:
+      213: -3324626609679494455
+    second: Cave - Platforms_175
+  - first:
+      213: -1971510727687181789
+    second: Cave - Platforms_176
+  - first:
+      213: -7801361752264587746
+    second: Cave - Platforms_177
+  - first:
+      213: -7461257027181002149
+    second: Cave - Platforms_178
+  - first:
+      213: 7239083802152753345
+    second: Cave - Platforms_179
+  - first:
+      213: 4784323202560371608
+    second: Cave - Platforms_180
+  - first:
+      213: 8454480521083128567
+    second: Cave - Platforms_181
+  - first:
+      213: 6176322694877001284
+    second: Cave - Platforms_182
+  - first:
+      213: -6030400872519609504
+    second: Cave - Platforms_183
+  - first:
+      213: -430986266764723158
+    second: Cave - Platforms_184
+  - first:
+      213: -2883942672591371469
+    second: Cave - Platforms_185
+  - first:
+      213: -6790112605248871812
+    second: Cave - Platforms_186
+  - first:
+      213: -8166697900751213771
+    second: Cave - Platforms_187
+  - first:
+      213: 7199900065663233551
+    second: Cave - Platforms_188
+  - first:
+      213: 7119362577720001933
+    second: Cave - Platforms_189
+  - first:
+      213: 1263744366297269089
+    second: Cave - Platforms_190
+  - first:
+      213: -6965465623350771890
+    second: Cave - Platforms_191
+  - first:
+      213: -922550018135552811
+    second: Cave - Platforms_192
+  - first:
+      213: 7781779236138341370
+    second: Cave - Platforms_193
+  - first:
+      213: -2537941678532395209
+    second: Cave - Platforms_194
+  - first:
+      213: 1069688617305025882
+    second: Cave - Platforms_195
+  - first:
+      213: 6243877576242747503
+    second: Cave - Platforms_196
+  - first:
+      213: 4914196192453324255
+    second: Cave - Platforms_197
+  - first:
+      213: 7344497147198337736
+    second: Cave - Platforms_198
+  - first:
+      213: 7191282346556270855
+    second: Cave - Platforms_199
+  - first:
+      213: -3452633769274231068
+    second: Cave - Platforms_200
+  - first:
+      213: 4857170344289473460
+    second: Cave - Platforms_201
+  - first:
+      213: -5974990469453575770
+    second: Cave - Platforms_202
+  - first:
+      213: -6434061501026757042
+    second: Cave - Platforms_203
+  - first:
+      213: 7754108435300416094
+    second: Cave - Platforms_204
+  - first:
+      213: 2556623235024749006
+    second: Cave - Platforms_205
+  - first:
+      213: 9132260039741865910
+    second: Cave - Platforms_206
+  - first:
+      213: 3055645817465062139
+    second: Cave - Platforms_207
+  - first:
+      213: -3513590905226966762
+    second: Cave - Platforms_208
+  - first:
+      213: -3607633588616403102
+    second: Cave - Platforms_209
+  - first:
+      213: -955755292151016186
+    second: Cave - Platforms_210
+  - first:
+      213: -2297542647742454647
+    second: Cave - Platforms_211
+  - first:
+      213: -6605564066227736826
+    second: Cave - Platforms_212
+  - first:
+      213: 3837378563237698065
+    second: Cave - Platforms_213
+  - first:
+      213: 2386843583642050750
+    second: Cave - Platforms_214
+  - first:
+      213: 3222106143941435799
+    second: Cave - Platforms_215
+  - first:
+      213: -3406139647920024387
+    second: Cave - Platforms_216
+  - first:
+      213: -327699841247312584
+    second: Cave - Platforms_217
+  - first:
+      213: 5539466383278241022
+    second: Cave - Platforms_218
+  - first:
+      213: -6654238917471789514
+    second: Cave - Platforms_219
+  - first:
+      213: 3384767259196665268
+    second: Cave - Platforms_220
+  - first:
+      213: -2552880079083821764
+    second: Cave - Platforms_221
+  - first:
+      213: -157570809749604140
+    second: Cave - Platforms_222
+  - first:
+      213: 6062434121782117899
+    second: Cave - Platforms_223
+  - first:
+      213: 7066909386619603732
+    second: Cave - Platforms_224
+  - first:
+      213: -3826569998546025343
+    second: Cave - Platforms_225
+  - first:
+      213: -540545198786032292
+    second: Cave - Platforms_226
+  - first:
+      213: -5087561604193807348
+    second: Cave - Platforms_227
+  - first:
+      213: -5029767806112746711
+    second: Cave - Platforms_228
+  - first:
+      213: 2301404829161498613
+    second: Cave - Platforms_229
+  - first:
+      213: 5877378882340869974
+    second: Cave - Platforms_230
+  - first:
+      213: 8457601821110741836
+    second: Cave - Platforms_231
+  - first:
+      213: -8644951069040326091
+    second: Cave - Platforms_232
+  - first:
+      213: -247183741651022069
+    second: Cave - Platforms_233
+  - first:
+      213: 8282868073232913643
+    second: Cave - Platforms_234
+  - first:
+      213: 4264221310007844534
+    second: Cave - Platforms_235
+  - first:
+      213: 6875249948549557050
+    second: Cave - Platforms_236
+  - first:
+      213: -1539335703568923195
+    second: Cave - Platforms_237
+  - first:
+      213: 2001956138498473508
+    second: Cave - Platforms_238
+  - first:
+      213: -4718628235203135519
+    second: Cave - Platforms_239
+  - first:
+      213: -8909211717010352714
+    second: Cave - Platforms_240
+  - first:
+      213: 8285241253728236257
+    second: Cave - Platforms_241
+  - first:
+      213: -455099849397760136
+    second: Cave - Platforms_242
+  - first:
+      213: 8948216668170414233
+    second: Cave - Platforms_243
+  - first:
+      213: 4370490381119276589
+    second: Cave - Platforms_244
+  - first:
+      213: -5135218108678007970
+    second: Cave - Platforms_245
+  - first:
+      213: 5881537544286018732
+    second: Cave - Platforms_246
+  - first:
+      213: -1602664028327384287
+    second: Cave - Platforms_247
+  - first:
+      213: -1481394663667491519
+    second: Cave - Platforms_248
+  - first:
+      213: -3026022184940477691
+    second: Cave - Platforms_249
+  - first:
+      213: -4747884189749547942
+    second: Cave - Platforms_250
+  - first:
+      213: -6205880220979473143
+    second: Cave - Platforms_251
+  - first:
+      213: -4814147898712164392
+    second: Cave - Platforms_252
+  - first:
+      213: -6888666229630051935
+    second: Cave - Platforms_253
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave - Platforms_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 999
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f201e83f37816d0800000000000000
+      internalID: -3019536060254245042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 812
+        width: 389
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e70caa7155e9960800000000000000
+      internalID: 7610613980440067738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 810
+        width: 191
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7535eabe5dd973c80800000000000000
+      internalID: -8343026242572889257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 645
+        width: 309
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e0648834738c30800000000000000
+      internalID: 4360456650312705827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 799
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c11b68913aae900800000000000000
+      internalID: 714562820920908885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 436
+        width: 562
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e879116f4cf3a4f0800000000000000
+      internalID: -818533289389623065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 262
+        width: 389
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc63c23c7109d6c0800000000000000
+      internalID: -4118258751314367267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 381
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f35ae8315c079c0800000000000000
+      internalID: -3931425786906198197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 191
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907a2ac763e207c00800000000000000
+      internalID: 896267137400874761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 317
+        width: 303
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7132926316931cc0800000000000000
+      internalID: -3741481855412457092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 145
+        width: 267
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c235f7a668b420800000000000000
+      internalID: 2645977652639482237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 168
+        width: 356
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded2e9e8d385d9a0800000000000000
+      internalID: -6208911543600226607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_12
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 135
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d89be65a0be2e20800000000000000
+      internalID: 3327791399247121822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 18
+        width: 389
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3069287a780e03920800000000000000
+      internalID: 2968119027672716803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - Platforms_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 31
+        width: 191
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6c74fd65a6b190800000000000000
+      internalID: -7946982600776847416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 67fa8d0c8d630604799dece7fd785e30
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

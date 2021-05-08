@@ -1,0 +1,26 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerCatch : MonoBehaviour
+{
+    [SerializeField] GameObject player;
+    PlayerDeath playerDeath;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        playerDeath = player.GetComponent<PlayerDeath>();
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            PlayerStats.instance.startPlayerInfo();
+            playerDeath.Die();
+            
+        }
+    }
+
+}

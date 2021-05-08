@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Canvas
+  - Ground
+  - ItemDialog
+  - ItemDialogBox
+  - ItemDialogText
+  - Enemy
+  - Unit
+  - KeyBind
+  - Vines
+  - EquipSlot
+  - PlayerLock
+  - Party_Level_1
+  - Party_Level_2
+  - Party_Level_3
+  - Credits
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Terrain
+  - Enemy
+  - Item
+  - Rain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 2550394399
+    locked: 0
+  - name: Item Layer
+    uniqueID: 3373974221
+    locked: 0
+  - name: Background_Layer0
+    uniqueID: 1704912429
+    locked: 0
+  - name: Background_Layer1
+    uniqueID: 2242841333
+    locked: 0
+  - name: Background_Layer2
+    uniqueID: 3289616461
+    locked: 0
+  - name: World Tree
+    uniqueID: 4253824319
+    locked: 0
+  - name: Foliage
+    uniqueID: 853198673
+    locked: 0
+  - name: Rain
+    uniqueID: 2265267727
+    locked: 0
+  - name: Player
+    uniqueID: 1804149809
+    locked: 0
+  - name: Enemies
+    uniqueID: 2565703017
+    locked: 0
+  - name: Floor
+    uniqueID: 2493432873
+    locked: 0
+  - name: Items
+    uniqueID: 1424452595
+    locked: 0
+  - name: Background_Flourish
+    uniqueID: 1803795651
+    locked: 0

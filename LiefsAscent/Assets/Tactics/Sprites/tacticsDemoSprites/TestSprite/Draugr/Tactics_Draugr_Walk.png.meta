@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 9b3ddcdd7b0c207449f79447eb52b730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7359297358088364685
+    second: draugr_Walk_0
+  - first:
+      213: 8569425365110180793
+    second: draugr_Walk_1
+  - first:
+      213: 1624143810265701844
+    second: draugr_Walk_2
+  - first:
+      213: 7151896078229492902
+    second: draugr_Walk_3
+  - first:
+      213: 7389796530181592260
+    second: draugr_Walk_4
+  - first:
+      213: -5526241931514017000
+    second: draugr_Walk_5
+  - first:
+      213: -9124215860364422852
+    second: draugr_Walk_6
+  - first:
+      213: -8390124588002045482
+    second: draugr_Walk_7
+  - first:
+      213: -5663898657820016540
+    second: draugr_Walk_8
+  - first:
+      213: 6017923773202828162
+    second: draugr_Walk_9
+  - first:
+      213: -31780905329414648
+    second: draugr_Walk_10
+  - first:
+      213: 228282547397893290
+    second: draugr_Walk_11
+  - first:
+      213: 3243371305668623356
+    second: draugr_Walk_12
+  - first:
+      213: -336414541204128248
+    second: draugr_Walk_13
+  - first:
+      213: 4901493464049403314
+    second: Tactics_Draugr_Walk_0
+  - first:
+      213: 5523522097309018240
+    second: Tactics_Draugr_Walk_1
+  - first:
+      213: -5535313875238985838
+    second: Tactics_Draugr_Walk_2
+  - first:
+      213: 1130508540201144003
+    second: Tactics_Draugr_Walk_3
+  - first:
+      213: 5397302957711709940
+    second: Tactics_Draugr_Walk_4
+  - first:
+      213: -43709680552805487
+    second: Tactics_Draugr_Walk_5
+  - first:
+      213: 6243291641329585259
+    second: Tactics_Draugr_Walk_5
+  - first:
+      213: 8668852533487280504
+    second: Tactics_Draugr_Walk_7
+  - first:
+      213: 3788419872302595872
+    second: Tactics_Draugr_Walk_8
+  - first:
+      213: 6333309658361963526
+    second: Tactics_Draugr_Walk_9
+  - first:
+      213: 4239314350323657504
+    second: Tactics_Draugr_Walk_10
+  - first:
+      213: -3439102315257541369
+    second: Tactics_Draugr_Walk_11
+  - first:
+      213: -4337949790153146455
+    second: Tactics_Draugr_Walk_12
+  - first:
+      213: 8682900439820927364
+    second: Tactics_Draugr_Walk_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54099165a950440800000000000000
+      internalID: 4901493464049403314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ef17251e77ac40800000000000000
+      internalID: 5523522097309018240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fd61a9b5d9e23b0800000000000000
+      internalID: -5535313875238985838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce0c32178f50bf00800000000000000
+      internalID: 1130508540201144003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f65293a17217ea40800000000000000
+      internalID: 5397302957711709940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7761f646b46ff0800000000000000
+      internalID: -43709680552805487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8d9e5ba0a4a650800000000000000
+      internalID: 6243291641329585259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87121cc1373fd4870800000000000000
+      internalID: 8668852533487280504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f70ac4dcb239430800000000000000
+      internalID: 3788419872302595872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6042737349f64e750800000000000000
+      internalID: 6333309658361963526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be146d0f115da30800000000000000
+      internalID: 4239314350323657504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dc9d85aaad540d0800000000000000
+      internalID: -3439102315257541369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff07836a18cc3c0800000000000000
+      internalID: -4337949790153146455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactics_Draugr_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4810c9f22fbdf7870800000000000000
+      internalID: 8682900439820927364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd726cc4c122be04e9d4c3465ea55923
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

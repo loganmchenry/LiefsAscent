@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc73f3eff4b81b479af710d516e219d, type: 3}
+  m_Name: Healer
+  m_EditorClassIdentifier: 
+  className: Healer
+  type1: 1
+  type2: 3
+  maxHealth: 20
+  actionPoint: 4
+  range: 3
+  movement: 3
+  strength: 5
+  defense: 10
+  intelligence: 10
+  mysticism: 10
+  turnPosition: 2
+  allSkills:
+  - skillBase: {fileID: 11400000, guid: aad6fadefc26b3e4e88bddbb2e13bf49, type: 2}
+    checkStat: 0
+    statReq: 0
+  - skillBase: {fileID: 11400000, guid: 80437b11cb5d9404fa1e1dfd1f2a1900, type: 2}
+    checkStat: 0
+    statReq: 0
+  - skillBase: {fileID: 11400000, guid: f110b8939dc2b684fbe7ce14d5253a76, type: 2}
+    checkStat: 0
+    statReq: 0

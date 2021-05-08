@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DragHandler" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAIAAQAABCAAADCEAACCAAAAgAAAEAAAABCAEA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\DragHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DropArea">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAAAQAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\DropArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DropCondition" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\DropCondition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenPartySelection" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAkAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\OpenPartySelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartyMembersInstance" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAECAAEA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\PartyMembersInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartyMembersMet" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAQAAAAAAAAAAACAACAAAA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\PartyMembersMet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartyMembersUI" Collapsed="true">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQEBAgAICBgQABAAAAEAEAIgAAUQAQAAAAAQAJIABQ=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\PartyMembersUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartyMembersUnlockedInstance" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\PartyMembersUnlockedInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySlot" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAQAAAAEAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Platformer\Party Selection\PartySlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

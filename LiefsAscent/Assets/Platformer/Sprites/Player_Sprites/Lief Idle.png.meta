@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: d8d696b910b54814ea9882a8cf1d9a49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2863295477518812174
+    second: Lief Idle_0
+  - first:
+      213: -2617530516249618883
+    second: Lief Idle_1
+  - first:
+      213: 8147571216599070716
+    second: Lief Idle_2
+  - first:
+      213: -2774774047992649548
+    second: Lief Idle_3
+  - first:
+      213: -6204709894281990737
+    second: Lief Idle_4
+  - first:
+      213: -1231878242638846709
+    second: Lief Idle_5
+  - first:
+      213: -8412380313534593531
+    second: Lief Idle_6
+  - first:
+      213: -8060468926633298396
+    second: Lief Idle_7
+  - first:
+      213: -258540781103782600
+    second: Lief Idle_8
+  - first:
+      213: 3650337558157850653
+    second: Lief Idle_9
+  - first:
+      213: 5301045466318438754
+    second: Lief Idle_10
+  - first:
+      213: -3254459567240291243
+    second: Lief Idle_11
+  - first:
+      213: -4202339927458518187
+    second: Lief Idle_12
+  - first:
+      213: -683599804027547051
+    second: Lief Idle_13
+  - first:
+      213: -2274558492720622790
+    second: Lief Idle_14
+  - first:
+      213: -3801032660722867504
+    second: Lief Idle_15
+  - first:
+      213: 3873187816512889074
+    second: Lief Idle_16
+  - first:
+      213: -8455296115622564579
+    second: Lief Idle_17
+  - first:
+      213: -4146284195476843744
+    second: Lief Idle_18
+  - first:
+      213: -7691070544891462389
+    second: Lief Idle_19
+  - first:
+      213: -455747185029397958
+    second: Lief Idle_20
+  - first:
+      213: 9168722039660836321
+    second: Lief Idle_21
+  - first:
+      213: -2275220590618382092
+    second: Lief Idle_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lief Idle_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 70
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb328ffee78348d0800000000000000
+      internalID: -2863295477518812174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36523e1dd9acabd0800000000000000
+      internalID: -2617530516249618883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b5939adcf11170800000000000000
+      internalID: 8147571216599070716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ec6964b50e79d0800000000000000
+      internalID: -2774774047992649548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad68f0a93174e9a0800000000000000
+      internalID: -6204709894281990737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05aafcd34d77eee0800000000000000
+      internalID: -1231878242638846709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5060840fca8314b80800000000000000
+      internalID: -8412380313534593531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b2f8a736732090800000000000000
+      internalID: -8060468926633298396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 70
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8356b56878a796cf0800000000000000
+      internalID: -258540781103782600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f3483baa98a230800000000000000
+      internalID: 3650337558157850653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 70
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2610b16f3c8119940800000000000000
+      internalID: 5301045466318438754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c55c63446d5d2d0800000000000000
+      internalID: -3254459567240291243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55be466d91a4ea5c0800000000000000
+      internalID: -4202339927458518187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525960a99d5386f0800000000000000
+      internalID: -683599804027547051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 10
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331a8c1a152f60e0800000000000000
+      internalID: -2274558492720622790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 10
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a4fd0fe4004bc0800000000000000
+      internalID: -3801032660722867504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f02f9f4cc350c530800000000000000
+      internalID: 3873187816512889074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da39d1bf0c8aa80800000000000000
+      internalID: -8455296115622564579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02359cefd707576c0800000000000000
+      internalID: -4146284195476843744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3645a614d34590800000000000000
+      internalID: -7691070544891462389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3240f0995cdca9f0800000000000000
+      internalID: -455747185029397958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 10
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5774afd18dd3f70800000000000000
+      internalID: 9168722039660836321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lief Idle_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 10
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0798e6deacc60e0800000000000000
+      internalID: -2275220590618382092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef4ce4359f992224681e715f8a097a24
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

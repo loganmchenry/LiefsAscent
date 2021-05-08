@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b48c32c844e613488a7a39b00a7f856, type: 3}
+  m_Name: StoneTileData
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 6467cc238fa88cc4a8c70105ecda36f6, type: 2}
+  - {fileID: 11400000, guid: 308522783a6d8864788f9e87bd27a70c, type: 2}
+  movementCost: 2
+  isWalkable: 1

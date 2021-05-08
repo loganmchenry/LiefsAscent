@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FadingAnimation
+  m_Controller: {fileID: 9100000, guid: 443d055f2cb9c734bb3e1d173a0defd7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fc07477ec3f2af94589fe5bddf64a4d6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f70ac79ba2502274a9d6decafd2322a4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f599107342218a84084562098bf7c90c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 860d5963262cd3a4e9046aae71d4c878, type: 2}
