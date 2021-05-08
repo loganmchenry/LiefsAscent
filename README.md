@@ -17,7 +17,7 @@ Lief's Ascent is a game made in C# using Unity.
 * **Janelle Domantay** -
 * **Louie Angelo F. Cano** - 
 * **Levi Yarmak** -
-* **Logan McHenry-Kroetch** -
+* **Logan McHenry-Kroetch** - [loganmchenry](https://github.com/loganmchenry)
 * **Riz Walter Articulo** -
 * **Austin Emery Sambo** -
 * **Aristides Nunez de Villavicencio** -
