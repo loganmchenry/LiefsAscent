@@ -9,6 +9,8 @@
 # LiefsAscent
 Lief's Ascent is a game made in C# using Unity. 
 
+## Where to play
+* [Itch.io](https://indigameworks.itch.io/liefs-ascent)
 ## Authors
 * **Alexis Villarreal** - [alexisveryreal](https://github.com/alexisveryreal)
 * **Juan Echevarria** - 
